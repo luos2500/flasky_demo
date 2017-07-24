@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 'aaass'
+=======
+'aaas'
+>>>>>>> Stashed changes
